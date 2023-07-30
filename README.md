@@ -4,6 +4,8 @@
 
 This is a React Vite application created as part of the frontend assignment for Wobot.ai's internship program. The application aims to showcase my skills in frontend development and how I approach building user-friendly web applications.
 
+## You can view assignment here  https://surajanand88.github.io/wobot_assignment 
+
 ## Table of Contents
 
 - [Getting Started](#getting-started)
